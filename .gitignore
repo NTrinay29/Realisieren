@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+output/final_dataset.csv
+output/summary_report.json
+logs/*.log
